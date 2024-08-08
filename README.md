@@ -1,2 +1,4 @@
 # Study materials and source code for **Droidcon Academy** course 
-> # Add Course Name 
+> # Install Android Studio and Setup Emulators on Mac, Windows, and Linux, and Create & Run the Hello World App 
+
+
