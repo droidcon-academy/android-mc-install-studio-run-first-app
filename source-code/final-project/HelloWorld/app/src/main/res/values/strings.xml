@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">HelloWorld</string>
-    <string name="hello_message">Hello Android World!</string>
-    <string name="welcome_message">Welcome to Android Development!</string>
-    <string name="button_text">Update Text</string>
-</resources>
